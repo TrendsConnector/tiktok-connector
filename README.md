@@ -96,7 +96,7 @@ Claude, ChatGPT, Cursor, VS Code, Claude Code, Grok, Muse, Perplexity, Gemini, C
 ## Related connectors
 
 - [YouTube connector](https://github.com/trendsconnector/youtube-connector): YouTube connector for search volume over time, and for the videos trending on YouTube right now.
-- [X connector](https://trendsconnector.com/x-connector?utm_source=github&utm_medium=readme&utm_campaign=tiktok-connector): X connector for the topics trending on X right now.
+- [X connector](https://github.com/trendsconnector/x-connector): X connector for the topics trending on X right now.
 - [All 20 connectors in one](https://github.com/trendsconnector/claude-trends-connector)
 
 If this connector saves you time, star the repo so other creators, social media managers and brands can find it.
